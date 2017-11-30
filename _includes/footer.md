@@ -1,8 +1,4 @@
 
-<html>
-    <body>
-           
-<!-- Site footer -->
 
 <div class="footer">
 
@@ -20,8 +16,6 @@
 </div>
 
 
-
-
 <!-- Google Analytics -->
 <script type="text/javascript">
 
@@ -37,5 +31,3 @@
 
 </script>
 
-</body>
-</html>
