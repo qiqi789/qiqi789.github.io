@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Research
 ---
 
@@ -82,3 +81,6 @@ title: Research
 -   副研究员，计算机科学专业，2014.12
 
 -   注册信息安全工程师(CISE)，2017.1
+
+
+{% include footer.html %}

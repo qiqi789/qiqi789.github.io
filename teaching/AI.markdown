@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AI course
 ---
 
@@ -213,3 +212,6 @@ title: AI course
     intelligence](http://www.cs.washington.edu/news/TheNewAI_NewScientist.pdf)
 
 -   [machine learning resources](ML/)
+
+
+{% include footer.html %}
