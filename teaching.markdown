@@ -10,4 +10,4 @@
 - [大数据技术（研究生课程)](big-data)
 - [电路原理](electric-circuits)
 
-{% include footer.html %}
+{% include footer.md %}

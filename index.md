@@ -15,4 +15,4 @@ layout: default
 
 {% include navigation.md %}
 
-{% include footer.html %}
+{% include footer.md %}

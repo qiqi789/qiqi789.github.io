@@ -214,4 +214,4 @@ title: AI course
 -   [machine learning resources](ML/)
 
 
-{% include footer.html %}
+{% include footer.md %}

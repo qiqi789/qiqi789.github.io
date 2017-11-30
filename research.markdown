@@ -83,4 +83,4 @@ title: Research
 -   注册信息安全工程师(CISE)，2017.1
 
 
-{% include footer.html %}
+{% include footer.md %}
