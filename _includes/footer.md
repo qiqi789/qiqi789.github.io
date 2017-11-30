@@ -4,7 +4,7 @@
 
   <footer>
     <p style="float: left; width: 70%;">&copy; Qi Qi 2014-2017</p>
-     <p><a href="/">回到主页 Home</a> :house: </p>
+     <p><a href="/">回到主页 Home :house:</a>  </p>
   </footer>
 
   <div class="clustrmap_2" style="float: right; width: 10%; margin-right: -18%; margin-top:-20px;">
