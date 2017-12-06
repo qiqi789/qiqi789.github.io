@@ -7,6 +7,10 @@ title: AI course
 
 ### 更新通知
 
+#### 2017/12/6
+
+> 课程幻灯片已上载到[网络教学平台](http://jxpt.hainu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=20760).
+
 #### 2017/9/5
 
 >   [PACMAN程序设计](project/)，感兴趣的可以做，总成绩上会加分。
