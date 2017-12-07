@@ -7,6 +7,10 @@ title: AI course
 
 ### 更新通知
 
+#### 2017/12/7
+
+> 期末考试通知已贴在网络教学平台。
+
 #### 2017/12/6
 
 > 课程幻灯片已上载到[网络教学平台](http://jxpt.hainu.edu.cn/meol/jpk/course/layout/newpage/index.jsp?courseId=20760).
