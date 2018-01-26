@@ -3,7 +3,7 @@
 <div class="footer">
 
   <footer>
-    <p style="float: left; width: 70%;">&copy; Qi Qi 2014-2017</p>
+    <p style="float: left; width: 70%;">&copy; Qi Qi 2014-2018</p>
      <p><a href="/">回到主页 Home :house:</a>  </p>
   </footer>
 
