@@ -3,10 +3,9 @@ layout: default
 title: 大数据技术（研究生专题课）
 ---
 
- 
+# 大数据技术(Big Data Analysis) 
+（2018年春季学期--研究生专题课）
 
-大数据技术(Big data and machine learning) （2017年春季学期--研究生专题课）
---------------------------------------------------------------------------
 
 课程内容
 --------
@@ -59,6 +58,11 @@ title: 大数据技术（研究生专题课）
 
 参考
 ----
+
+* 这门课的内容可以关联 [人工智能导论课](/teaching/AI) 相关内容和参考链接。
+
+* [Theorem of the day](http://www.theoremoftheday.org/)
+
 - [K-Means clustering visualization](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 - [Bigdata -- Kmeans](http://alaska.epfl.ch/~dockermoocs/bigdata/kmeans/kmeans.html)
 
@@ -103,4 +107,4 @@ title: 大数据技术（研究生专题课）
 以往课程网页
 ------------
 
--   [2016](2016/big-data/)
+-   [2017](/teaching/archive/big-data_2017Spring)

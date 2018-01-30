@@ -3,10 +3,12 @@ layout: default
 title: 大数据技术（研究生专题课）
 ---
 
+
  
 
 大数据技术(Big data and machine learning) （2017年春季学期--研究生专题课）
---------------------------------------------------------------------------
+=======================================================================
+
 
 课程内容
 --------
@@ -100,7 +102,8 @@ title: 大数据技术（研究生专题课）
 
 <http://webscope.sandbox.yahoo.com/#datasets>
 
+
 以往课程网页
 ------------
 
--   [2016](archive/big-data_2016Spring.html)
+-   [2016](/teaching/archive/big-data_2016Spring.html)
