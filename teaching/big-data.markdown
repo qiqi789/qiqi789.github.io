@@ -100,6 +100,8 @@ title: 大数据技术（研究生专题课）
 开放数据
 --------
 
+* [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+
 <https://github.com/caesar0301/awesome-public-datasets>
 
 <http://archive.ics.uci.edu/ml/index.html>
