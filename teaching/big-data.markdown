@@ -91,6 +91,8 @@ title: 大数据技术（研究生专题课）
 
 - [Avrim Blum](http://www.cs.cmu.edu/~avrim/)
 
+- [Nathan Srebro](http://ttic.uchicago.edu/~nati/)
+
 - [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
 
 -   [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
