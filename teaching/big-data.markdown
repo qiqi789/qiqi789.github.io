@@ -91,11 +91,19 @@ title: 大数据技术（研究生专题课）
 
 - [Avrim Blum](http://www.cs.cmu.edu/~avrim/)
 
+* [M. I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
+
 - [Nathan Srebro](http://ttic.uchicago.edu/~nati/)
 
 - [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
 
 -   [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
+
+* [Large-Scale Optimization for Data Science, Princeton](http://www.princeton.edu/~yc5/ele538_optimization/lectures.html)
+
+* [Master M2 MVA: Convex Optimization, Algorithms and Applications](http://www.di.ens.fr/~aspremon/OptConvexeM2.html)
+
+* [A. Nemirovski](https://www2.isye.gatech.edu/~nemirovs/)
 
 开放数据
 --------
