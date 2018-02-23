@@ -105,6 +105,12 @@ title: 大数据技术（研究生专题课）
 
 * [A. Nemirovski](https://www2.isye.gatech.edu/~nemirovs/)
 
+* [Data8 - Foundations of Data Science](http://data8.org/)
+
+* [CS294 RISE](https://ucbrise.github.io/cs294-rise-fa16/)
+
+* [Ray - riselab](https://rise.cs.berkeley.edu/projects/ray/)
+
 开放数据
 --------
 
