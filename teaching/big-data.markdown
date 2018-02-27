@@ -97,7 +97,7 @@ title: 大数据技术（研究生专题课）
 
 - [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
 
--   [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
+- [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
 
 * [Large-Scale Optimization for Data Science, Princeton](http://www.princeton.edu/~yc5/ele538_optimization/lectures.html)
 
@@ -110,6 +110,10 @@ title: 大数据技术（研究生专题课）
 * [CS294 RISE](https://ucbrise.github.io/cs294-rise-fa16/)
 
 * [Ray - riselab](https://rise.cs.berkeley.edu/projects/ray/)
+
+* [CS231n convolutional neural networks course, Stanford](http://cs231n.github.io/convolutional-networks/)
+
+* [CDMC 2017, cybersecurity data mining competition](http://www.csmining.org/cdmc2017/)
 
 开放数据
 --------

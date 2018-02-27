@@ -345,4 +345,6 @@ Markdown texts can be converted to PDF, Word, Latex documents.
 * Texlive
 * Pandoc, a universal text file transformation tool
 
+* [Oxford's Learner's Dictionaries online account](https://www.oxfordlearnersdictionaries.com/)
+
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
