@@ -23,6 +23,8 @@ The following resources are in the fields of parallel, distributed computing, ar
 <li><a href="#SI">Software, Industry</a></li>
 <li><a href="#online-tools">Research online tools</a></li>
 <li><a href="#software">Research software</a></li>
+
+<li><a href="#classics">Library</a></li>
 </ul>
 
 
@@ -346,5 +348,9 @@ Markdown texts can be converted to PDF, Word, Latex documents.
 * Pandoc, a universal text file transformation tool
 
 * [Oxford's Learner's Dictionaries online account](https://www.oxfordlearnersdictionaries.com/)
+
+<a name="classics" />
+
+## [Library](/resource/library)
 
 <p><a class="btn btn-success" style="float:right" href="#top">go to top</a></p>
