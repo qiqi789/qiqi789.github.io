@@ -71,7 +71,7 @@ labs](http://www.cis.syr.edu/~wedu/seed/labs.html) 的相关实验。
 
 ## 往年课程网页
 
-* [2017](/archive/network-security_2017Spring)
+* [2017](/archive/network-security_2017Spring/)
 
 ## 参考资料
 
