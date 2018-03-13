@@ -7,6 +7,7 @@
 
 - [网络安全技术](/teaching/network-security)
 
+- [电路与电子技术](/teaching/Electronics)
 - [电路原理](/teaching/electric-circuits)
 - [计算机电子电路](/teaching/Electronics)
 
