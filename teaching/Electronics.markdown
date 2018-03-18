@@ -75,6 +75,7 @@ title: 计算机电子电路
 ### 参考
 
 * [Introduction to Electronics, Georgia Institute of Technology, Coursera](https://www.coursera.org/learn/electronics/home/info)
+  * It covers basic components of electronics: diodes, transistors, and op amps.
 
 * [Valence electron(价电子)](http://en.wikipedia.org/wiki/Valence_electron)
 * [Phasor (相量，复数矢量)](http://en.wikipedia.org/wiki/Phasor)
