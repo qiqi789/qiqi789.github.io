@@ -72,7 +72,9 @@ title: 计算机电子电路
 
 * [2015 Spring](/teaching/archive/Electronics_2015Spring)
 
-### 参考知识
+### 参考
+
+* [Introduction to Electronics, Georgia Institute of Technology, Coursera](https://www.coursera.org/learn/electronics/home/info)
 
 * [Valence electron(价电子)](http://en.wikipedia.org/wiki/Valence_electron)
 * [Phasor (相量，复数矢量)](http://en.wikipedia.org/wiki/Phasor)
