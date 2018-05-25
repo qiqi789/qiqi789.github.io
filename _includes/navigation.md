@@ -6,3 +6,14 @@
   * [网络安全技术](/teaching/network-security)
 
   * [以往课程 teaching archive](/teaching)
+
+* Post
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
