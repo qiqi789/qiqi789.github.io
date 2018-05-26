@@ -7,13 +7,15 @@
 
   * [以往课程 teaching archive](/teaching)
 
-* Post
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
+**新消息**:
+  {% assign sorted_posts = (site.posts | sort: 'date') %}
+  {% for post in sorted_posts %}
+  <li>
+    <a href="{{ post.url }}">{{post.title}}</a>
+    {{ post.excerpt }}
+  </li>
   {% endfor %}
 </ul>
+
