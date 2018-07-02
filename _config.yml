@@ -25,6 +25,7 @@ github_username:  qiqi789
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-architect
+repository: "qiq789/qiqi789.github.io"
 plugins:
   - jekyll-feed
 
