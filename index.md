@@ -13,7 +13,6 @@ layout: default
 如果你想在相关领域寻找感兴趣的课题，欢迎与我联系。我的邮箱是 qqi@hainu.edu.cn。
 
 
-
 {% include navigation.md %}
 
 {% include footer.md %}
