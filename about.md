@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+我的研究领域是机器学习算法。我在美国密苏里大学获得计算机科学博士学位，现任教于海南大学计算机科学系。 如果你想在相关领域寻找感兴趣的课题，欢迎与我联系。我的邮箱是 qqi@hainu.edu.cn。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[我的研究(Research)网页](/research)

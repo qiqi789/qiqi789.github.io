@@ -27,6 +27,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 # my custom
-gem "jekyll-theme-cayman"
-gem "jekyll-theme-leap-day"
 gem "jekyll-theme-architect"
+gem "minima"
