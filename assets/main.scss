@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/** my custom 
+ refers to _site/assets/main.css, copy its content and paste here below to customize.
+**/
+.site-header { border-top: 5px solid #445525; border-bottom: 1px solid #aab597; min-height: 55.95px; position: relative; }
+.site-title, .site-title:visited { color: #2a3517; }
+.site-nav .page-link { color: #61503b; line-height: 1.5; }
