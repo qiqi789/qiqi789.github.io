@@ -31,7 +31,11 @@ repository: "qiq789/qiqi789.github.io"
 plugins:
   - jekyll-feed
 header_pages:
+  - research.md
+  - research/venues.md
+  - contact.md
   - about.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

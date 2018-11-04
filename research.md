@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Research
+permalink: /research/
 ---
 
 ### 研究方向

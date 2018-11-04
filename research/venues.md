@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Research Venues and Resources
+layout: page
+title: Links
+permalink: /research/venues
 ---
 
 <a name="top" />
