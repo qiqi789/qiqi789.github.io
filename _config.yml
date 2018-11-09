@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 齐琦 Qi QI
+title: 齐琦 Qi QI's Home Portal
 email: qqi@hainu.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   "Doing your best is not good enough. Sometimes you must do what is required." Winston S. Churchill
@@ -22,6 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: qiziqi
 github_username:  qiqi789
 facebook_username: qiqi789
+google_analytics: UA-12306391-3
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
@@ -35,7 +37,6 @@ header_pages:
   - research/venues.md
   - contact.md
   - about.md
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
