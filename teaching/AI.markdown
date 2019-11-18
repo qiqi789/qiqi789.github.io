@@ -13,10 +13,10 @@ title: AI course
 
 ### 作业
 
-* [作业1](hw/HW1.pdf)
-* [作业2](hw/HW2.pdf)
-* [作业3](hw/HW3.pdf)
-* [作业4](hw/HW4.pdf)
+* [作业1](/hw/HW1.pdf)
+* [作业2](/hw/HW2.pdf)
+* [作业3](/hw/HW3.pdf)
+* [作业4](/hw/HW4.pdf)
 
 
 ### 课程信息
@@ -28,8 +28,8 @@ title: AI course
 
 
 #### 以往课程网页
-- [2017 秋季学期](archive/2017fall/AI)
-- [2016 秋季学期](archive/2016fall/AI)
+- [2017 秋季学期](AI/archive/2017fall/AI)
+- [2016 秋季学期](AI/archive/2016fall/AI)
 
 #### 数学参考
 - [Wolfram mathworld](http://mathworld.wolfram.com/)
