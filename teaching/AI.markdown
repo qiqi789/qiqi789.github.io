@@ -13,10 +13,10 @@ title: AI course
 
 ### 作业
 
-* [作业1](/hw/HW1.pdf)
-* [作业2](/hw/HW2.pdf)
-* [作业3](/hw/HW3.pdf)
-* [作业4](/hw/HW4.pdf)
+* [作业1](AI/hw/HW1.pdf)
+* [作业2](AI/hw/HW2.pdf)
+* [作业3](AI/hw/HW3.pdf)
+* [作业4](AI/hw/HW4.pdf)
 
 
 ### 课程信息
