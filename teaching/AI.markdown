@@ -7,6 +7,10 @@ title: AI course
 
 ### 更新通知
 
+#### 2019/12/2
+
+> 作业6已经贴出，请到 [https://qiqi789.netlify.com/lecture/ai/](https://qiqi789.netlify.com/lecture/ai/) 下载。
+
 #### 2019/11/25
 
 > 作业5已经贴出，请到 [https://qiqi789.netlify.com/lecture/ai/](https://qiqi789.netlify.com/lecture/ai/) 下载。
