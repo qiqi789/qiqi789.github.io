@@ -12,6 +12,8 @@ permalink: /research/
 
 ### 发表的论文 （Publication）
 
+- "Classification of IoT Malware based on Convolutional Neural Network,",Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, [doi: 10.1109/ICSS50103.2020.00016.](https://doi.org/10.1109/ICSS50103.2020.00016)
+
 -  Exploration of Heuristic-Based Feature Selection on Classification Problems. Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer.
 
 -   “Reconstruction of metabolic pathways by combining probabilistic graphical
