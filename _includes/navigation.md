@@ -7,15 +7,19 @@
 
   * [以往课程 teaching archive](/teaching)
 
-<!--
+
 <ul>
-**新消息**:
+<!--**新消息**: -->
+  {{ 'now' | date: "%Y" }}
   {% assign sorted_posts = (site.posts | sort: 'date') %}
   {% for post in sorted_posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate >= now %}
   <li>
     <a href="{{ post.url }}">{{post.title}}</a>
     {{ post.excerpt }}
   </li>
+  {% endif %}
   {% endfor %}
 </ul>
--->
+
