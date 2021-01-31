@@ -10,11 +10,11 @@
 
 <ul>
 <!--**新消息**: -->
-  {{ 'now' | date: "%Y" }}
+  {% assign thisyear = 'now' | date: "%Y" %}
   {% assign sorted_posts = (site.posts | sort: 'date') %}
   {% for post in sorted_posts %}
   {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate >= now %}
+  {% if currentdate >= thisyear %}
   <li>
     <a href="{{ post.url }}">{{post.title}}</a>
     {{ post.excerpt }}
