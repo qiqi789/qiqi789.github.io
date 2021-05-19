@@ -12,9 +12,11 @@ permalink: /research/
 
 ### 发表的论文 （Publication）
 
-- "Classification of IoT Malware based on Convolutional Neural Network,",Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, [doi: 10.1109/ICSS50103.2020.00016.](https://doi.org/10.1109/ICSS50103.2020.00016)
+- "Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks", Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)[link](https://www.worldscientific.com/doi/10.1142/S021819402140009X)
 
--  Exploration of Heuristic-Based Feature Selection on Classification Problems. Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer.
+- "Classification of IoT Malware based on Convolutional Neural Network", Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, [doi: 10.1109/ICSS50103.2020.00016.](https://doi.org/10.1109/ICSS50103.2020.00016)
+
+-  "Exploration of Heuristic-Based Feature Selection on Classification Problems", Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer.
 
 -   “Reconstruction of metabolic pathways by combining probabilistic graphical
     model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
