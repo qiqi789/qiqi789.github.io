@@ -10,7 +10,7 @@ permalink: /research/
 
 -   机器学习算法，人工智能应用。
 
-### 近期发表论文 （Publication）
+### 近期发表论文 （Recent publications）
 
 - "Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks", Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)[link](https://www.worldscientific.com/doi/10.1142/S021819402140009X)
 
