@@ -6,11 +6,11 @@ permalink: /research/
 
 ### 研究方向
 
--   组合优化决策算法及工业应用。
+-   近似算法，组合优化决策，及工业应用。
 
 -   机器学习算法，人工智能应用。
 
-### 发表的论文 （Publication）
+### 近期发表论文 （Publication）
 
 - "Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks", Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)[link](https://www.worldscientific.com/doi/10.1142/S021819402140009X)
 
@@ -74,11 +74,13 @@ permalink: /research/
 
 ### 主持的基金项目
 
--   『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015
+- 『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021
 
--   『面向大数据智能分析处理的高性能网络应用服务系统关键技术的研究』，海南省自然科学基金，2015
+-  『利用函数式并行分布计算构建大数据高性能分析处理的互联网应用服务系统』，教育部留学回国人员科研启动基金，2015
 
--   『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014
+-  『面向大数据智能分析处理的高性能网络应用服务系统关键技术的研究』，海南省自然科学基金，2015
+
+-  『大数据高性能计算分析应用服务系统研究』，海南大学科研启动基金，2014
 
 <!--
 ### 专业技术资格
