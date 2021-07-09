@@ -29,6 +29,13 @@ The following resources are in the fields of parallel, distributed computing, ar
 </ul>
 
 
+### Competitions
+
+* [ROADEF/EURO CHALLENGE 2020](https://www.roadef.org/challenge/2020/en/)
+
+* [International Olympiad in Informatics](https://ioi2021.sg/ioi-2021-tasks/)
+
+
 <a name="acm-sig" />
 
 ### ACM SIG
