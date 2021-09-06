@@ -14,7 +14,7 @@ permalink: /research/
 
 ### 近期发表论文 （Recent publications）
 
-* "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://doi.org/10.1007/978-3-030-73671-2_3)
+* "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3)
 
 - "Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks", Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)[link](https://www.worldscientific.com/doi/10.1142/S021819402140009X)
 
