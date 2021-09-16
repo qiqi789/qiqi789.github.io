@@ -71,7 +71,7 @@ permalink: /research/
     MOSpace](https://mospace.umsystem.edu/xmlui/handle/10355/15111)
 
 
-### 基金项目
+### 主持的基金项目
 
 - 『航空调度中大规模组合优化问题及鲁棒算法研究』，海南省自然科学高层次人才基金项目，2021-2023
 
