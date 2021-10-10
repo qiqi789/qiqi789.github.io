@@ -22,7 +22,7 @@ permalink: /research/
 
 - "Classification of IoT Malware based on Convolutional Neural Network", Q. -G. Lin, N. Li, Q. Qi and J. -B. Hu,  2020 International Conference on Service Science (ICSS), Xining, 2020, pp. 51-57, [doi: 10.1109/ICSS50103.2020.00016.](https://doi.org/10.1109/ICSS50103.2020.00016)
 
--  "Exploration of Heuristic-Based Feature Selection on Classification Problems", Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer.
+-  "Exploration of Heuristic-Based Feature Selection on Classification Problems", Qi Q., Li N., Li W.. PAAP 2017 proceeding, [Communications in Computer and Information Science, vol 729: 95-107](https://link.springer.com/chapter/10.1007/978-981-10-6442-5_9), Springer. [PDF](heuristic-feature-selection-2017.pdf)
 
 -   “Reconstruction of metabolic pathways by combining probabilistic graphical
     model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
@@ -33,7 +33,7 @@ permalink: /research/
     Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Qi,
     Yi Shang, International Journal of Distributed Sensor Networks, vol. 2011,
     article ID 928958, 2011.
-    [link](http://www.hindawi.com/journals/ijdsn/2011/928958/)
+    [link](http://www.hindawi.com/journals/ijdsn/2011/928958/), [PDF](PGM-based-observation-selection_2011.pdf)
 
 -   “An Improved Algorithm for Optimal Subset Selection in Chain Graphical
     Models”, Qi Qi, Yi Shang, and Hongchi Shi, Evolutionary Computation (CEC),
