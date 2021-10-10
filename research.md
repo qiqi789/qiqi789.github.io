@@ -27,7 +27,7 @@ permalink: /research/
 -   “Reconstruction of metabolic pathways by combining probabilistic graphical
     model-based and knowledge-based methods”, Qi Qi, Jilong Li, and Jianlin
     Cheng, BMC Proceedings, 2014, 8(Suppl 6):S5.
-    [link](http://www.biomedcentral.com/1753-6561/8/S6/S5)
+    [link](http://www.biomedcentral.com/1753-6561/8/S6/S5), [PDF](PGM-based-pathways-reconstruction-2014.pdf)
 
 -   “Comparison of Probabilistic Chain Graphical Model Based and Gaussian
     Process Based Observation Selections for Wireless Sensor Scheduling”, Qi Qi,
