@@ -11,6 +11,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 
 
 <ul class="nav nav-tabs nav-stacked navbar-right" >
+<li><a href="#PLO">People, Lab, Organization</a></li>
 <li><a href="#acm-sig">ACM</a></li>
 <li><a href="#ieee">IEEE</a></li>
 <li><a href="#USENIX">USENIX</a></li>
@@ -19,7 +20,6 @@ The following resources are in the fields of parallel, distributed computing, ar
 <li><a href="#CSCD">Chinese Science Citation DB</a></li>
 <li><a href="#elsevier">Elsevier</a></li>
 <li><a href="#springer">Springer</a></li>
-<li><a href="#PLO">People, Lab, Organization</a></li>
 <li><a href="#workshops">Courses, Workshops</a></li>
 <li><a href="#SI">Software, Industry</a></li>
 <li><a href="#online-tools">Research online tools</a></li>
@@ -34,6 +34,39 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [ROADEF/EURO CHALLENGE 2020](https://www.roadef.org/challenge/2020/en/)
 
 * [International Olympiad in Informatics](https://ioi2021.sg/ioi-2021-tasks/)
+
+<a name="PLO" />
+
+### People, Lab, Organization
+
+* [Avrim Blum](https://home.ttic.edu/~avrim/)
+* [Clifford Stein](http://www.columbia.edu/~cs2035/index.html)
+* [Rob Tibshirani](https://statweb.stanford.edu/~tibs/wisdom.html)
+* [Alexander Schrijver](https://homepages.cwi.nl/~lex/)
+* [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
+* [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/)
+* [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
+* [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
+* [Ran El-Yaniv](http://www.cs.technion.ac.il/~rani/)
+* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
+* [Parallel Computing Lab, UC Berkeley](http://parlab.eecs.berkeley.edu)
+* [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
+* [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
+* [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
+* [Maurice Herlihy](http://cs.brown.edu/~mph/)
+* [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
+* [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
+* [Sergio Rajsbaum](http://www.matem.unam.mx/~rajsbaum/)
+* [Resources for Multicore Programming Education](http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm)
+* [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
+* [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
+* [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
+* [David A. Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
+* [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
+* [Bigdata@CSAIL MIT](http://bigdata.csail.mit.edu/)
+
+* [Computing research association](http://www.cra.org)
+* [Society for Industrial and Applied Mathematics](http://www.siam.org)
 
 
 <a name="acm-sig" />
@@ -248,38 +281,6 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Distributed systems](https://www.quora.com/Distributed-Systems)
 * [Machine learning](https://www.quora.com/Machine-Learning)
 
-<a name="PLO" />
-
-### People, Lab, Organization
-
-* [Avrim Blum](https://home.ttic.edu/~avrim/)
-* [Clifford Stein](http://www.columbia.edu/~cs2035/index.html)
-* [Rob Tibshirani](https://statweb.stanford.edu/~tibs/wisdom.html)
-* [Alexander Schrijver](https://homepages.cwi.nl/~lex/)
-* [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
-* [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/)
-* [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
-* [Jorge Nocedal](http://users.iems.northwestern.edu/~nocedal)
-* [Ran El-Yaniv](http://www.cs.technion.ac.il/~rani/)
-* <span class="glyphicon glyphicon-bookmark" aria-hidden="true" /> [ampLab, UC Berkeley](https://amplab.cs.berkeley.edu)
-* [Parallel Computing Lab, UC Berkeley](http://parlab.eecs.berkeley.edu)
-* [Algorithms and Complexity, CMU](http://theory.cs.cmu.edu)
-* [PROBE on Parallel Thinking, CMU](http://www.cs.cmu.edu/~CompThink/probes/parallel_thinking.html)
-* [Parallel Computing group, MIT](http://toc.csail.mit.edu/node/137), [Multicore Algorithmics group](http://groups.csail.mit.edu/mag/)
-* [Maurice Herlihy](http://cs.brown.edu/~mph/)
-* [Hagit Attiya, Technion](http://www.cs.technion.ac.il/~hagit/)
-* [Nir Shavit, MIT](http://people.csail.mit.edu/shanir/)
-* [Sergio Rajsbaum](http://www.matem.unam.mx/~rajsbaum/)
-* [Resources for Multicore Programming Education](http://www.cs.tau.ac.il/~shanir/Resources%20for%20Multicore%20Programming%20Education.htm)
-* [Guy E. Blelloch, CMU](http://www.cs.cmu.edu/~guyb/)
-* [Assaf Schuster, Technion](http://assaf.net.technion.ac.il)
-* [Jure Leskovec, Stanford](http://cs.stanford.edu/people/jure/)
-* [David A. Patterson](http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html)
-* [Parallel and Distributed Systems TU Delft](http://www.pds.ewi.tudelft.nl/research-topics/data-science/)
-* [Bigdata@CSAIL MIT](http://bigdata.csail.mit.edu/)
-
-* [Computing research association](http://www.cra.org)
-* [Society for Industrial and Applied Mathematics](http://www.siam.org)
 
 
 <a name="workshops" />
