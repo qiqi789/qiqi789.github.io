@@ -255,6 +255,7 @@ The following resources are in the fields of parallel, distributed computing, ar
 * [Avrim Blum](https://home.ttic.edu/~avrim/)
 * [Clifford Stein](http://www.columbia.edu/~cs2035/index.html)
 * [Rob Tibshirani](https://statweb.stanford.edu/~tibs/wisdom.html)
+* [Alexander Schrijver](https://homepages.cwi.nl/~lex/)
 * [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais/)
 * [Anupam Gupta](http://www.cs.cmu.edu/~anupamg/)
 * [Ben Recht](https://people.eecs.berkeley.edu/~brecht/)
