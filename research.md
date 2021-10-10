@@ -14,7 +14,7 @@ permalink: /research/
 
 ### 近期发表论文 （Recent publications）
 
-* "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3)
+* "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3), [PDF](semi-supervised-Learning-High-Dimensional-Classification-2021.pdf)
 
 * "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第3期，优先出版。
 
