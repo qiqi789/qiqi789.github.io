@@ -7,7 +7,7 @@ layout: default
 
 <!-- ![photo](images/Qi_photo2.JPG) -->
 
-![My photo]({{ "/images/Qi_photo2.JPG" | absolute_url }})
+![My photo]({{ "/images/photo_mit_3.png" | absolute_url }})
 
 我的研究领域主要包括近似算法，组合优化决策，机器学习算法。我在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位，现任教于海南大学计算机科学系。
 如果你想在相关领域寻找感兴趣的课题，欢迎与我联系，我的电子邮箱地址是 qqi@hainanu.edu.cn。

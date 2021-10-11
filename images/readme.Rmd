@@ -1,0 +1,13 @@
+---
+title: "readme"
+author: "Qi Qi"
+date: "10/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+https://www.datanovia.com/en/blog/easy-image-processing-in-r-using-the-magick-package/
+
