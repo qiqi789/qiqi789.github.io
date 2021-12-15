@@ -16,7 +16,7 @@ permalink: /research/
 
 * "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3), [PDF](semi-supervised-Learning-High-Dimensional-Classification-2021.pdf)
 
-* "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第3期，优先出版。
+* "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期，优先出版。 [web link](https://www.arocmag.com/article/02-2022-02-002.html)
 
 - "Using API Call Sequences for IoT Malware Classification Based on Convolutional Neural Networks", Q. Lin, N. Li, Q. Qi, J. Hu, International Journal of Software Engineering and Knowledge Engineering Vol.31, No.04, pp. 587-612 (2021)[link](https://www.worldscientific.com/doi/10.1142/S021819402140009X)
 
