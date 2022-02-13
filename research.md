@@ -12,7 +12,6 @@ permalink: /research/
 
 * 概率因果关系推理
 
-
 ### 近期发表论文 （Recent publications）
 
 * "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3), [PDF](semi-supervised-Learning-High-Dimensional-Classification-2021.pdf)
