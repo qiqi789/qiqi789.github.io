@@ -15,6 +15,8 @@ permalink: /research/
 
 ### 近期发表论文 （Recent publications）
 
+* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567)
+
 * Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)
 
 
