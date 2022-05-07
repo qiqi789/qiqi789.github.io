@@ -13,7 +13,7 @@ permalink: /research/
 * 概率因果关系推理
 
 
-### 近期发表论文 （Recent publications）
+### 发表论文 （Publications）
 
 * Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567)
 
