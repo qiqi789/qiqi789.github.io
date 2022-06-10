@@ -26,7 +26,7 @@ permalink: /research/
 * Q. Liu, Q. Qi, H. Jia and N. Li, "An Improved Slime Mould Algorithm with Quasi Reflection-based Learning for Global Optimization Problems," 2021 IEEE 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (DependSys), 2021, pp. 1996-2003, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00298).
 
 
-* "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期，优先出版。 [Web link](https://www.arocmag.com/article/02-2022-02-002.html)
+* "基于带惩罚的点概率距离策略优化算法在展示广告实时竞标中的研究"，李文权，齐琦，等，计算机应用研究，2022年第39卷第2期，优先出版。 [Web link](https://www.arocmag.com/article/01-2022-02-023.html)
 
 
 * "A Semi-supervised Learning Approach for High Dimensional Android Malware Classification", Shang Q., Li N., Qi Q., Lin XW. (2021). In: Cyberpace Safety and Security. CSS 2020. Lecture Notes in Computer Science, vol 12653. Springer, Cham. [Web link](https://link.springer.com/chapter/10.1007/978-3-030-73671-2_3), [PDF](semi-supervised-Learning-High-Dimensional-Classification-2021.pdf)
