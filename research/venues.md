@@ -359,6 +359,7 @@ Markdown texts can be converted to PDF, Word, Latex documents.
     * latex extension
 * Texlive
 * Pandoc, a universal text file transformation tool
+* Rstudio, rmarkdown
 * [Convert Excel to Markdown Table](https://tableconvert.com/)
 
 * [Oxford's Learner's Dictionaries online account](https://www.oxfordlearnersdictionaries.com/)
