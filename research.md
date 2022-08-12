@@ -15,9 +15,9 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，已录用。
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
 
-* “混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 已录用。
+* “混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
 
 * Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567)
 
