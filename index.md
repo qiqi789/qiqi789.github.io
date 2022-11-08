@@ -12,7 +12,7 @@ layout: default
 我的研究兴趣主要集中在近似算法，组合优化决策，随机规划，机器学习算法。曾在美国密苏里大学哥伦比亚校区获得计算机科学哲学博士学位。现在海南大学计算机科学与技术学院教授人工智能，从事相关科学研究工作。
 如果你想在数据建模与预测，运筹优化等领域探讨感兴趣的问题，进行相关理论和应用上的研究，欢迎联系我，Email： qqi@hainanu.edu.cn。
 
-[新网页地址：qiqi789.netlify.app](https://qiqi789.netlify.app)
+[**新网页地址：qiqi789.netlify.app**](https://qiqi789.netlify.app)
 
 <!--请访问新的网页地址，[https://qiqi789.netlify.app](https://qiqi789.netlify.app)-->
 
