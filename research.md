@@ -15,7 +15,9 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-- SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022. 已录用.
+* Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding. Qingxin Liu, Qi Qi and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), 已录用.
+
+- SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022, 已录用.
 
 * “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，已录用。
 
