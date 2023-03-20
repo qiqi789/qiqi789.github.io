@@ -27,9 +27,9 @@ permalink: /research/
 
 * “混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
 
-* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567)
+* Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
 
-* Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)
+* Liu, Q.; Li, N.; Jia, H.; Qi, Q.; Abualigah, L. Modified Remora Optimization Algorithm for Global Optimization and Multilevel Thresholding Image Segmentation. Mathematics 2022, 10, 1014. [Web link](https://doi.org/10.3390/math10071014)（ESI高被引，Editor's choice)
 
 
 * X. -W. Lin, N. Li and Q. Qi, "Organs-At-Risk Segmentation in Medical Imaging Based on the U-Net with Residual and Attention Mechanisms," 2021 IEEE 7th Int Conf on Data Science & Systems (DSS), 2021, pp. 1259-1264, [doi link:](https://doi.org/10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00192).
