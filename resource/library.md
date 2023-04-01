@@ -7,6 +7,7 @@ I recorded here what I read for a variety of interesting subjects.
 
 # Optimization
 
+* [A Universal Framework for Sequential Decision Problems, Warren B. Powell](https://pubsonline.informs.org/do/10.1287/orms.2023.01.02/full/)
 * [Convex Optimization, Stephen Boyd, Cambridge]()
 * [Nonlinear Programming, Dimitri P. Bertsekas, Athena Scientific]()
 * [Lectures on Modern Convex Optimization, A. Nemirovski](https://www2.isye.gatech.edu/~nemirovs/)
