@@ -21,7 +21,7 @@ permalink: /research/
 
 * Q. Liu, H. Jia, D. Wu, N. Li, Q. Qi and X. Huang, "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem," 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022，[Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/abstract/abstract10920.shtml)。
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2022. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
 * "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
 
