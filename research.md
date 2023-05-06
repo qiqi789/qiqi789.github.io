@@ -15,6 +15,8 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
+* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review, 2023, accepted.
+
 * Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding. Qingxin Liu, Qi Qi and etc., 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023), 已录用.
 
 - SLEO: An efficient equilibrium optimizer for numerical optimization, Qingxin Liu, Qi Qi, and etc., the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022), 2022, 已录用.
