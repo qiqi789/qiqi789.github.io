@@ -14,10 +14,10 @@ tags:
 
 ## 作业
 
-* [作业1](AI/hw/hw1.pdf) . [参考答案](AI/hw/sol1.pdf)
-* [作业2](AI/hw/hw2.pdf) . [参考答案](AI/hw/sol2.pdf)
-* [作业3](AI/hw/hw3.pdf) . [参考答案](AI/hw/sol3.pdf)
-* [作业4](AI/hw/hw4.pdf) . [参考答案](AI/hw/sol4.pdf)
+* [作业1](AI/hw/HW1.pdf) . [参考答案](AI/hw/sol1.pdf)
+* [作业2](AI/hw/HW2.pdf) . [参考答案](AI/hw/sol2.pdf)
+* [作业3](AI/hw/HW3.pdf) . [参考答案](AI/hw/sol3.pdf)
+* [作业4](AI/hw/HW4.pdf) . [参考答案](AI/hw/sol4.pdf)
 * [作业5](AI/hw/hw5.pdf)
 
 
