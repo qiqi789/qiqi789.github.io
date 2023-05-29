@@ -14,7 +14,7 @@ tags:
 
 ## 作业
 
-* [作业1](hw/hw1.pdf) . [参考答案](hw/sol1.pdf)
+* [作业1](AI/hw/hw1.pdf) . [参考答案](AI/hw/sol1.pdf)
 * [作业2](hw/hw2.pdf) . [参考答案](hw/sol2.pdf)
 * [作业3](hw/hw3.pdf) . [参考答案](hw/sol3.pdf)
 * [作业4](hw/hw4.pdf) . [参考答案](hw/sol4.pdf)
@@ -25,7 +25,7 @@ tags:
 
 |序号 | 内容提纲             | 对应章节       | 幻灯片   |
 |:---:|-----------------------|---------------|:-----------:|
-|1 | 人工智能简介，课程内容介绍 |  第1章，第26.3、27.4节 | [pdf](slides/lecture1.pdf)  |
+|1 | 人工智能简介，课程内容介绍 |  第1章，第26.3、27.4节 | [pdf](AI/slides/lecture1.pdf)  |
 |2 | 智能行为体和环境   | 第2章  | [pdf](../slides/lecture2.pdf)  |
 |3 | 基础搜索算法,A*搜索,和启发式法  | 第3章的1-4节，5-6节  | [pdf](../slides/lecture3.pdf) , [part2_pdf](../slides/lecture3_part2.pdf) |
 |4 | 局部搜索和不确定搜索  |  第4章 | [pdf](../slides/lecture4.pdf)  |
