@@ -15,7 +15,7 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review, 2023, accepted.
+* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
 
 * Q. Liu, Q. Qi and N. Li, "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
 
