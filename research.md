@@ -20,7 +20,7 @@ permalink: /research/
 * Q. Liu, Q. Qi and N. Li, "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
 
 
-- "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi: 10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
+- "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
 
 
 * Q. Liu, H. Jia, D. Wu, N. Li, Q. Qi and X. Huang, "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem," 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
