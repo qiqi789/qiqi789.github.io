@@ -29,7 +29,7 @@ permalink: /research/
 
 * "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
 
-* “混合改进策略的阿奎拉鹰优化算法”，刘庆鑫, 齐琦, 等， 山东大学学报(工学版), 2022, 已录用。
+* “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 齐琦, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
 
 * Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
 
