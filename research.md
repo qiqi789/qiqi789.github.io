@@ -29,7 +29,7 @@ permalink: /research/
 
 * “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
-* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用。
+* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 齐琦, 等，智能系统学报，2022，已录用 [Web link](https://kns.cnki.net/kcms2/article/abstract?v=hqt_j-uEELFpl9aFmn61Cgpnbp1LJqP7sMA3GxkPKl8X0H31rHneKZ-WxD9BwrBJ9IqUslM26kBlwv40GwnBgFKMdXma99BYODaSkAvMqhSPXCEbzrimxw==&uniplatform=NZKPT)。
 
 * “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 齐琦, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
 
