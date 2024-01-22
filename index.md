@@ -13,12 +13,12 @@ layout: default
 
 欢迎在相关学术领域探讨交流，我的电子邮箱地址，Email： qqi@hainanu.edu.cn。
 
-
+[**更新的网页地址：qiqi789.netlify.app**](https://qiqi789.netlify.app)
 
 <!--请访问新的网页地址，[https://qiqi789.netlify.app](https://qiqi789.netlify.app)-->
 
 {% include navigation.md %}
 
-[**新网页地址：qiqi789.netlify.app**](https://qiqi789.netlify.app)
+
 
 {% include footer.md %}
