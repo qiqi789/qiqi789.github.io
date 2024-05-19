@@ -6,11 +6,11 @@ permalink: /research/
 
 ### 研究方向
 
-- 组合优化与博弈问题。 Combinatorial Optimization; Algorithmic Games.
+- 组合优化与博弈问题 Combinatorial Optimization; Algorithmic Games.
 
 - 机器学习，数据科学。Machine Learning; Data Science.
 
-- 鲁棒优化，运筹优化。 Robust optimization; Operations research.
+- 鲁棒优化 Robust optimization.
 
 
 
