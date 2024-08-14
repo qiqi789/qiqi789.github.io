@@ -10,8 +10,6 @@ permalink: /research/
 
 - 机器学习，数据科学。Machine Learning; Data Science.
 
-- 鲁棒优化 Robust optimization.
-
 
 
 ### 发表论文 （Publications）
