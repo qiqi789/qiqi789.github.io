@@ -14,7 +14,10 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-* "Robust modeling of the multi-depot vehicle routing problem under uncertain demands", with Jinqing Li, accepted to 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).[Web link](https://ieeexplore.ieee.org/document/10580781)
+* "A Intra-Network Multi-Teacher Distillation Method Towards 
+Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted to 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). 
+
+* "Robust modeling of the multi-depot vehicle routing problem under uncertain demands", with Jinqing Li, 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).[Web link](https://ieeexplore.ieee.org/document/10580781)
 
 * "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", Y. Han, Q. Qi, N. Li and J. Li,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. [Web link](https://ieeexplore.ieee.org/document/10476145)
 
