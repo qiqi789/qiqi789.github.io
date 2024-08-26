@@ -14,6 +14,8 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
+* "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, accepted to 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.
+
 * "A Intra-Network Multi-Teacher Distillation Method Towards 
 Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted to 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). 
 
