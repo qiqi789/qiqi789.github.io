@@ -18,7 +18,7 @@ permalink: /research/
 
 * "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, accepted to 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.
 
-* "A Intra-Network Multi-Teacher Distillation Method Towards 
+* "An Intra-Network Multi-Teacher Distillation Method Towards 
 Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted to 2024 9th International Conference on Computational Intelligence and Applications(ICCIA 2024). 
 
 * "Robust modeling of the multi-depot vehicle routing problem under uncertain demands", with Jinqing Li, 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).[Web link](https://ieeexplore.ieee.org/document/10580781)
