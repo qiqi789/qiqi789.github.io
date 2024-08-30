@@ -23,24 +23,24 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted to 2024 9th In
 
 * "Robust modeling of the multi-depot vehicle routing problem under uncertain demands", with Jinqing Li, 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024).[Web link](https://ieeexplore.ieee.org/document/10580781)
 
-* "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", Y. Han, Q. Qi, N. Li and J. Li,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. [Web link](https://ieeexplore.ieee.org/document/10476145)
+* "Robust optimization for minimizing total tardiness on unrelated parallel machine scheduling", with Y. Han, etc.,  2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), Ocean Flower Island, China, 2023, pp. 242-247, doi: 10.1109/ICPADS60453.2023.00044. [Web link](https://ieeexplore.ieee.org/document/10476145)
 
 
-* A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy. Qingxin Liu, Qi Qi and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
+* "A chimp-inspired remora optimization algorithm for multilevel thresholding image segmentation using cross entropy", with Qingxin Liu, and etc., Artificial Intelligence Review (2023), https://doi.org/10.1007/s10462-023-10498-0. [Web link](https://link.springer.com/article/10.1007/s10462-023-10498-0)
 
-* Q. Liu, Q. Qi and N. Li, "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," 2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
-
-
-- "SLEO: An efficient Equilibrium Optimizer for numerical optimization", Q. Liu, Q. Qi and N. Li, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
+* "Federated Opposite Learning Based Arithmetic Optimization Algorithm for Image Segmentation Using Multilevel Thresholding," with Q. Liu, etc.,  2023 26th International Conference on Computer Supported Cooperative Work in Design (CSCWD), Rio de Janeiro, Brazil, 2023, pp. 1257-1262, doi: 10.1109/CSCWD57460.2023.10152600. [Web link](https://ieeexplore.ieee.org/document/10152600)
 
 
-* Q. Liu, H. Jia, D. Wu, N. Li, Q. Qi and X. Huang, "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem," 2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
+- "SLEO: An efficient Equilibrium Optimizer for numerical optimization", with Q. Liu, etc., 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), Haikou, China, 2022, pp. 1696-1701, doi:10.1109/SmartWorld-UIC-ATC-ScalCom-DigitalTwin-PriComp-Metaverse56740.2022.00241. [Web page](https://ieeexplore.ieee.org/document/10189595)
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，齐琦，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
 
-* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 李霓, 贾鹤鸣，齐琦，智能系统学报,2024,19(2):381-391. [Web link](https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202205018)。
+* "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem", with Q. Liu, H. Jia, etc.,  2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
 
-* “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 齐琦, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
+
+* "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 等，智能系统学报,2024,19(2):381-391. [Web link](https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202205018)。
+
+* “混合改进策略的阿奎拉鹰优化算法”[J]，刘庆鑫, 等，山东大学学报 (工学版), 2023, 53(4): 93-103. [Web link](http://gxbwk.njournal.sdu.edu.cn/CN/10.6040/j.issn.1672-3961.0.2022.128)
 
 * Liu Q, Li N, Jia H, Qi Q, Abualigah L, Liu Y. A Hybrid Arithmetic Optimization and Golden Sine Algorithm for Solving Industrial Engineering Design Problems. Mathematics. 2022; 10(9):1567. [Web link](https://doi.org/10.3390/math10091567) （ESI高被引）
 
