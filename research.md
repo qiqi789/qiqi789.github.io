@@ -14,7 +14,7 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-* "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han, accepted to Journal of PeerJ Computer Science, 2024.
+* "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han,and etc., Journal of PeerJ Computer Science, 2024. [Web link](https://peerj.com/articles/cs-2253/)
 
 * "The Design of a Deep Learning-based Adaptive Multi-Channel Fusion Network for Diabetes Diagnosis", with Peng Xia, accepted to 2024 20th International Conference on Intelligent Computing(ICIC 2024), Tianjin, China.
 
