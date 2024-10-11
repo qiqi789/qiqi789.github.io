@@ -40,7 +40,7 @@ Lightweight Knowledge Graph Completion", with Zeyu Yang, accepted by 2024 9th In
 
 * "Hybrid Optimization Algorithm Based on Arithmetic and Golden Sine Algorithms for Constrained Engineering Problem", with Q. Liu, H. Jia, etc.,  2022 China Automation Congress (CAC), Xiamen, China, 2022, pp. 157-162, doi: 10.1109/CAC57257.2022.10054988. [Web link](https://ieeexplore.ieee.org/document/10054988)
 
-* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](http://journal12.magtechjournal.com/Jweb_fszlx/CN/10.3760/cma.j.cn113030-20220128-00047)
+* “多尺度融合与注意力机制结合的头颈部肿瘤放疗危及器官自动分割”，林小惟，等，中华放射肿瘤学杂志，2023, 32(4): 319-324. [Web link](https://rs.yiigle.com/cmaid/1456377)
 
 * "改进䲟鱼优化算法和熵测度的图像多阈值分割", 刘庆鑫, 等，智能系统学报,2024,19(2):381-391. [Web link](https://tis.hrbeu.edu.cn/oa/darticle.aspx?type=view&id=202205018)。
 
