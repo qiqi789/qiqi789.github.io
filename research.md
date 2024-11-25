@@ -16,7 +16,7 @@ permalink: /research/
 
 ### 发表论文 （Publications）
 
-* "A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction", with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024
+* "A Novel Adaptive Multi-channel Fusion Network Based on Deep Learning for Diabetes Diagnosis and Readmission Prediction", with Peng Xia, accepted by 2024 Principle and practice of data and Knowledge Acquisition Workshop (PKAW 2024), Kyoto, Japan, 2024. [Web link](https://link.springer.com/chapter/10.1007/978-981-96-0026-7_20)
 
 * "DCWPSO: Particle Swarm Optimization with Dynamic Inertia Weight Updating and Enhanced Learning Strategies", with Yibo Han,and etc., Journal of PeerJ Computer Science, 2024. [Web link](https://peerj.com/articles/cs-2253/)
 
