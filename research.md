@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+[Updated Web link, https://qiqi789.netlify.app/research/](https://qiqi789.netlify.app/research/)
+
 ### 研究方向
 
 - 组合优化，算法，博弈。 Combinatorial Optimization. Algorithms. Game Theory.
